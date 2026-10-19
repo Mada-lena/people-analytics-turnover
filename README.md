@@ -36,3 +36,6 @@ A gestão precisa de saber:
 Power BI · DAX · Power Query · ExceL· Claude(MCP)
 
 <img width="930" height="496" alt="Dashboard People Analytics" src="https://github.com/user-attachments/assets/1a3add09-b4fe-4610-b4a9-61bbfd7ac63d" />
+
+<img width="929" height="500" alt="m" src="https://github.com/user-attachments/assets/2ee293e5-5ee8-4d91-bc4d-23ae5f58447f" />
+
