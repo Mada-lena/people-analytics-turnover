@@ -35,5 +35,4 @@ A gestão precisa de saber:
 
 Power BI · DAX · Power Query · ExceL· Claude(MCP)
 
-![Dashboard](images/<img width="930" height="496" alt="H" src="https://github.com/user-attachments/assets/1a3add09-b4fe-4610-b4a9-61bbfd7ac63d" />
-)
+![Dashboard](<img width="930" height="496" alt="H" src="https://github.com/user-attachments/assets/1a3add09-b4fe-4610-b4a9-61bbfd7ac63d" />)
